@@ -37,6 +37,13 @@ body {
     height: 400px;
     width: 400px;
     border-radius: 5px;
+    
+}
+#goals {
+    font-size: 20px;
+    font-weight: bold;
+    width: 400px;
+    margin: auto;
 }
 h2 {
     background-color: lightgray;
